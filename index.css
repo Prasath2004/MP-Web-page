@@ -1,0 +1,30 @@
+.row {
+    display: table;
+    clear: both;
+}
+
+.column {
+    float: left;
+    width: 450px;
+    padding: 10px;
+    height: 600px;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+img {
+    margin-left: 25px;
+    width: 400px;
+    height: 400px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+body {
+    background-color: bisque;
+    
+}
+
